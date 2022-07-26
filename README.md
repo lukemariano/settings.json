@@ -4,9 +4,9 @@ configurações para o vscode:
   
   
 
-{
-    "window.zoomLevel": 2,  
-    
+{  
+
+    "window.zoomLevel": 2,      
     "python.languageServer": "Pylance", // ms-python.vscode-pylance  
     "python.testing.unittestEnabled": false, // ms-python.python
     "python.testing.pytestEnabled": true,
